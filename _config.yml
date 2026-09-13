@@ -1,0 +1,20 @@
+title: "Gao Bin"
+name: "Gao Bin"
+description: "Master's student in Applied Statistics at Minzu University of China"
+url: "https://YOURUSERNAME.github.io"
+baseurl: ""
+repository: "YOURUSERNAME/YOURUSERNAME.github.io"
+lang: "en"
+markdown: kramdown
+permalink: pretty
+collections:
+  publications:
+    output: false
+  projects:
+    output: false
+plugins: []
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
